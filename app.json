@@ -1,7 +1,7 @@
 {
     "name": "ʟɪɢɪᴛ ダ ᴍᴜsɪᴄ",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/424dcd0513719de080db2.jpg",
+    "logo": "https://telegra.ph/file/5c2babbf5aee1826ed258.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
+        "value": "6109365101",
         "required": true
       },
       "SESSION": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/sastatony",
+        "value": "https://t.me/tbcbotschat",
         "required": false
       }
     },
