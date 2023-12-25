@@ -1,4 +1,4 @@
-# LIGITxMUSIC
+# 𝗢𝗹𝗶𝘃𝗶𝗮𝘅𝗠𝘂𝘀𝗶𝗰
 POWERFUL MUSIC BOT
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -11,7 +11,7 @@ POWERFUL MUSIC BOT
   <img src="https://te.legra.ph/file/1f070ea3147e2a3ef44e4.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟɪɢɪᴛ ✘ ᴍᴜsɪᴄ](https://t.me/LIGITMUSIC_ROBOT)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟɪɢɪᴛ ✘ ᴍᴜsɪᴄ](https://t.me/OliviaMusicRoBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
