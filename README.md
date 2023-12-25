@@ -4,7 +4,7 @@ POWERFUL MUSIC BOT
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ʟɪɢɪᴛ ✘ ᴍᴜsɪᴄ 」──
+    ──「 ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
